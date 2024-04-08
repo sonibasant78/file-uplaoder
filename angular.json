@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "file-uplaod"
+  "defaultProject": "file-uplaod",
+  "cli": {
+    "analytics": "7a0b3f76-608a-4158-adf7-c3fbe8f8416e"
+  }
 }
